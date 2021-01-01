@@ -1,1 +1,2 @@
-# Example of Dockerfile to build ubuntu image with jenkins
+# docker-jenkins
+Example of Dockerfile to build ubuntu image with jenkins
